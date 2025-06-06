@@ -22,4 +22,5 @@ async function del(){
 }
 del();
 /** so when aproject require authentication they will be usinfg redis for session management for session management they have a redis caching layer
- * where in they will be set the tokens this is the real usecase */
+ * where in they will be set the tokens this is the real usecase
+ * so node js is a javascript runtime envoirment on server */
